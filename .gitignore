@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+.gitignore
+demo.iml
+Dockerfile
+mongo.yaml
+mvnw
+mvnw.cmd
+spring demo.http
+.github
+.mvn
+target
